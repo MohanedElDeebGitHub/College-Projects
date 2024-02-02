@@ -1,6 +1,6 @@
 # Mohaned ElDeeb's College Projects
 
-Hello, I'm Mohaned Khaled. This repository contains a collection of my college projects. These projects are primarily focused on various aspects of computer science and software development.
+Hello, I'm Mohaned ElDeeb. This repository contains a collection of my college projects. These projects are primarily focused on various aspects of computer science and software development.
 
 ## Projects
 
