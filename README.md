@@ -10,7 +10,13 @@ The projects in this repository are not complete in the literal sense. Some of t
 
 The term's final project for the Introduction to Databases course required us to create a team-based project of our own choice. My and my team settled on creating a DB for a SpeedRun web application. Since this was an individual project, we didn't have the web application itself, however the database design was ready.
 
+### Java-Lab Pharmacy Project
 
+For the Java-Lab, there was a relatively big project for a normal assignment that required from us to create a project that represents the functionality of a real-life Pharmacy.
+
+### Java-Lab Term's Project for a Hypermarket Account Manager
+
+The third term's final project required from us to create an Account Manager for a Hypermarket type of business. In the Project's folder there exists a UML diagram, and a Design Document.
 
 ## Usage
 
