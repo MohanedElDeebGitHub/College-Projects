@@ -23,4 +23,4 @@ While this repository is primarily for personal use, I'm open to collaboration. 
 
 ## Contact
 
-If you have any questions, feel more than free to ask them through my Discrod: https://discord.gg/mn6K5Y6Rvp .
+If you have any questions, feel more than free to ask them.
